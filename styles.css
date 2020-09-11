@@ -1,0 +1,38 @@
+
+#prueba_1 {
+    position: relative;
+    left: 14%;
+    margin: 2%;
+    border: 3px solid greenyellow;
+    background-size: auto;
+    background-color: rgb(20, 4, 13);
+    color: #9653e2;
+    text-align: justify;
+    align-self: start;
+    height: 10%;
+    width: 60%;
+    padding: 3%;
+
+}
+
+#t1 {
+    position: relative;
+    color: aqua;
+    text-align: center;
+    padding-top: 5%;
+}
+
+#prueba_1.h3{
+    position: absolute;
+    left: 10%;
+    text-align: start;
+    width: fit-content;
+    height: fit-content;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Verdana;
+    background-color: black;
+}
